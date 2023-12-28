@@ -24,13 +24,15 @@ Make sure to follow the instructions in the respective subdirectories to set up,
 ## Cloud Computing
 
 This section contains code and resources related to the cloud computing components of our project.
+Cloud Run, Container Registry, Cloud SQL, Firebase, Firestore
 
 ### Directory Structure
 
-- 
-- 
-- 
-
+- predictAPI/app.py
+- models/Intellicash_Model_S2V5/content/Intellicash_Model_S2V5
+  models/TOKENIZER/content/TOKENIZER
+  models/Intellicash_Label.csv
+  
 ### Usage
 
 Follow the instructions in the respective subdirectories to deploy and manage the cloud computing components.
